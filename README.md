@@ -1,5 +1,8 @@
 # AI Learning Hub
 
+Path to Google document on Prompt Engineering
+22365_3_Prompt Engineering_v7.pdf
+
 For students who want information on using AI tools
 
 **Frequently used terms**

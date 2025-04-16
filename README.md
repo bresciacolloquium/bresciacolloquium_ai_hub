@@ -4,8 +4,6 @@
 
 [22365_3_Prompt Engineering_v7.pdf](https://github.com/bresciacolloquium/ai-learning-hub/blob/main/22365_3_Prompt%20Engineering_v7.pdf)
 
-For students who want information on using AI tools
-
 **Frequently used terms**
 
 **Open Source** - Open source refers to software or other digital assets whose source code is freely available for anyone to use, modify, and distribute.

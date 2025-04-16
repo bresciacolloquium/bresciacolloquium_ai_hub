@@ -1,6 +1,6 @@
 # AI Learning Hub
 
-Path to Google document on Prompt Engineering
+##Path to Google document on Prompt Engineering
 [22365_3_Prompt Engineering_v7.pdf](https://github.com/bresciacolloquium/ai-learning-hub/blob/main/22365_3_Prompt%20Engineering_v7.pdf)
 
 For students who want information on using AI tools

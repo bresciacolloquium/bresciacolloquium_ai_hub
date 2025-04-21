@@ -29,3 +29,7 @@
 **Knowledge Base** - Collection of documents, text or data
 
 [**Link to get you started with a database**](https://github.com/supabase/supabase)
+
+**UI** - A user interface is a way for users to interact through a visual medium to navigate, interact with, and manipulate digital systems and applications.
+
+[**Link to get you started with Opeb Web UI for generative AI UI**](https://github.com/open-webui/open-webui)

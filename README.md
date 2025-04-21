@@ -1,5 +1,6 @@
 # AI Hub
 
+This comprehensive guide, "Prompt Engineering," provides users with practical instructions and examples for crafting effective prompts to leverage AI capabilities within their familiar AI Workspace applications. The guide aims to empower everyone to collaborate more effectively with AI while maintaining data privacy and security within the Workspace environment.
 
 [**Link to Google document on Prompt Engineering**](https://github.com/bresciacolloquium/ai-learning-hub/blob/main/22365_3_Prompt%20Engineering_v7.pdf)
 

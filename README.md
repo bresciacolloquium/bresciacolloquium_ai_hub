@@ -32,6 +32,8 @@ This comprehensive guide, "Prompt Engineering," provides users with practical in
 
 [**Link to knowlede note taking tool Obsidian**](https://obsidian.md/)
 
+[**Link to Obsidian Smart Second Brain Plugin**](https://github.com/your-papa/obsidian-Smart2Brain)
+
 **UI** - A user interface is a way for users to interact through a visual medium to navigate, interact with, and manipulate digital systems and applications.
 
 [**Link to get you started with Opeb Web UI for generative AI UI**](https://github.com/open-webui/open-webui)

@@ -26,6 +26,6 @@
 
 **Knowledge Base** - Collection of documents, text or data
 
-[**Link to get you started with a database**]9https://github.com/supabase/supabase)
+[**Link to get you started with a database**](https://github.com/supabase/supabase)
 
 **Agents/Agentic** - refers to the ability of a system to act autonomously and intelligently in response to its environment. This involves understanding context, learning from experience, and adapting behaviour over time.

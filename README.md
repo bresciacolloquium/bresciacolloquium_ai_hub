@@ -17,6 +17,7 @@
 **Workflow automation software** - software like n8n, Zapier etc, helps build multi-step automation that can help build agents
 
 **Ollama** - open open-source tool that enables users to run LLMs on their computer
+Link to Ollama Repository(https://github.com/ollama/ollama)
 
 **Vector Database** - A vector representation of your knowledge store for searching
 

@@ -18,7 +18,7 @@
 
 **Ollama** - open open-source tool that enables users to run LLMs on their computer
 
-**Link to Ollama Repository to get you started**(https://github.com/ollama/ollama)
+[**Link to Ollama Repository to get you started**](https://github.com/ollama/ollama)
 
 **Vector Database** - A vector representation of your knowledge store for searching
 

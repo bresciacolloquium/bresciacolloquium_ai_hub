@@ -15,6 +15,7 @@
 **RAG** - Retrieval Augmented Generation uses specific information to generate a response
 
 **Workflow automation software** - software like n8n, Zapier etc, helps build multi-step automation that can help build agents
+
 [**Link to N8N GitHub to get you started**](https://github.com/n8n-io)
 
 **Ollama** - open open-source tool that enables users to run LLMs on their computer

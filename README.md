@@ -4,7 +4,7 @@ This comprehensive guide, "Prompt Engineering," provides users with practical in
 
 [**Link to Google document on Prompt Engineering**](https://github.com/bresciacolloquium/ai-learning-hub/blob/main/22365_3_Prompt%20Engineering_v7.pdf)
 
-## **Frequently used terms**
+## **Frequently used terms and Links to resources**
 
 **Open Source** - Open source refers to software or other digital assets whose source code is freely available for anyone to use, modify, and distribute.
 

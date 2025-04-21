@@ -30,6 +30,8 @@ This comprehensive guide, "Prompt Engineering," provides users with practical in
 
 [**Link to get you started with a database**](https://github.com/supabase/supabase)
 
+[**Link to knowlede note taking tool Obsidian**](https://obsidian.md/)
+
 **UI** - A user interface is a way for users to interact through a visual medium to navigate, interact with, and manipulate digital systems and applications.
 
 [**Link to get you started with Opeb Web UI for generative AI UI**](https://github.com/open-webui/open-webui)

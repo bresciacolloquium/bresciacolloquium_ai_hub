@@ -12,9 +12,9 @@
 
 **Embedded LLM** - Specifically designed to represent text as numeric vectors to focus on getting the meaning behind the word
 
-**Agents/Agentic** - refers to the ability of a system to act autonomously and intelligently in response to its environment. This involves understanding context, learning from experience, and adapting behaviour over time.
-
 **RAG** - Retrieval Augmented Generation uses specific information to generate a response
+
+**Agents/Agentic** - refers to the ability of a system to act autonomously and intelligently in response to its environment. This involves understanding context, learning from experience, and adapting behaviour over time.
 
 **Workflow automation software** - software like n8n, Zapier etc, helps build multi-step automation that can help build agents
 
